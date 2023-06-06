@@ -1,0 +1,8 @@
+{
+  "name": "meetfully",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "a59bb24d"
+}
